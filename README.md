@@ -2,17 +2,14 @@
   <img src="https://c.tenor.com/A17aJ1ZniiUAAAAC/dog-walking.gif">
 </p>
 
-# Hi, I'm Daniel Korenko 👋
-![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
+# Hi, I'm Daniel 👋
 
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
-
-I love programming and I love Swift.
+I love programming and I love React.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
+- 👨🏽‍💻 I’m currently a student student at my 5th year; 
+- 🤔 My interests are with web and game dev, AI, Python etc..;
 - 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
