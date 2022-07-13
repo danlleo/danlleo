@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
+  <img src="https://c.tenor.com/A17aJ1ZniiUAAAAC/dog-walking.gif">
 </p>
 
 # Hi, I'm Daniel Korenko 👋
