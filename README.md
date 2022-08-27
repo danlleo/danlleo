@@ -7,8 +7,8 @@ I am a studen at Kyiv National University of Construction and Architecture.
 I am intrested in Web Development.
 
 My skills:
- - Knowledge of Javascript, HTML document DOM model and events, CSS3 (Sass, Less, Bootstrap)
- - React, Redux
+ - Knowledge of JavaScript, TypeScript, HTML document DOM model and events, CSS3 (Sass, Less, Bootstrapm, Tailwind)
+ - React, Redux, Redux-Toolkit
  - Node JS, Express JS, JWT
  - MongoDB, MySQL
  - Git
